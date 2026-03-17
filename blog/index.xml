@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Blogs on 世界は工場でできている</title><link>https://bink-miya.github.io/world-of-factories/blog/</link><description>Recent content in Blogs on 世界は工場でできている</description><generator>Hugo</generator><language>en</language><atom:link href="https://bink-miya.github.io/world-of-factories/blog/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://bink-miya.github.io/world-of-factories/blog/2026-03-12-markdown-start/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bink-miya.github.io/world-of-factories/blog/2026-03-12-markdown-start/</guid><description>&lt;h1 id="markdownでブログを書いてみる"&gt;Markdownでブログを書いてみる&lt;/h1&gt;
-&lt;p&gt;今日はMarkdownでブログを書く準備をしました。&lt;/p&gt;
-&lt;h2 id="markdownとは"&gt;Markdownとは&lt;/h2&gt;
-&lt;p&gt;シンプルな記法で文章を書けるフォーマットです。&lt;/p&gt;
-&lt;p&gt;test3&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;今日はMarkdownでブログを書く準備をしました。
+使っているツールは,Github,Hugo,paperModです。
+こんなツールが無料で使える良い時代ですね！&lt;/p&gt;
+&lt;h1 id="markdownとは"&gt;Markdownとは&lt;/h1&gt;
+&lt;p&gt;シンプルな記法で文章を書けるフォーマットです。
+慣れると便利なんだろうな～。慣れれば。&lt;/p&gt;
+&lt;h1 id="自己紹介"&gt;自己紹介&lt;/h1&gt;
+&lt;p&gt;製造業でIT関連してます。&lt;/p&gt;
+&lt;h1 id="どんなサイト"&gt;どんなサイト？&lt;/h1&gt;
+&lt;p&gt;思ったこと、調べたことなどを書き連ねるところと考えています。&lt;/p&gt;</description></item></channel></rss>
