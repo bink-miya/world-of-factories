@@ -434,3 +434,25 @@ button:hover {
     line-height: 1.85;
   }
 }
+
+html {
+  font-size: 17px;
+}
+
+.post-content {
+  font-size: 1.05rem;
+  line-height: 1.9;
+}
+
+.post-content ul,
+.post-content ol {
+  padding-left: 1.5em;
+}
+
+.post-content ul {
+  list-style-position: inside;
+}
+
+.post-content li {
+  margin: 0.5em 0;
+}
