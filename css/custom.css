@@ -456,3 +456,8 @@ html {
 .post-content li {
   margin: 0.5em 0;
 }
+
+.home-custom {
+  max-width: 900px;
+  margin: 0 auto;
+}
