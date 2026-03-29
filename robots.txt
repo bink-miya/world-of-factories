@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bink-miya.github.io/world-of-factories/sitemap.xml
