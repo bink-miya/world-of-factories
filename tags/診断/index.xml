@@ -13,7 +13,6 @@
 &lt;/blockquote&gt;
 &lt;hr&gt;
 &lt;h2 id="3分でわかる構造チェック"&gt;3分でわかる構造チェック&lt;/h2&gt;
-&lt;script src="https://bink-miya.github.io/world-of-factories/js/structure-check.js"&gt;&lt;/script&gt;
 &lt;div id="structure-check-app" class="structure-check-app"&gt;
 &lt;style&gt;
 #structure-check-app.structure-check-app {
