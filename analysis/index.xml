@@ -1,4 +1,61 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Analyses on 世界は工場でできている</title><link>https://bink-miya.github.io/world-of-factories/analysis/</link><description>Recent content in Analyses on 世界は工場でできている</description><generator>Hugo</generator><language>en</language><lastBuildDate>Tue, 31 Mar 2026 00:00:00 +0900</lastBuildDate><atom:link href="https://bink-miya.github.io/world-of-factories/analysis/index.xml" rel="self" type="application/rss+xml"/><item><title>ペロブスカイトは本当に普及するのか――本当のボトルネックは電力システムにある</title><link>https://bink-miya.github.io/world-of-factories/analysis/perovskite-ems-analysis/</link><pubDate>Tue, 31 Mar 2026 00:00:00 +0900</pubDate><guid>https://bink-miya.github.io/world-of-factories/analysis/perovskite-ems-analysis/</guid><description>ペロブスカイト太陽電池の普及を、発電ではなく送電・蓄電・EMS・制度設計の側から読み解く分析記事。</description></item><item><title>生成AI時代、システム開発は内製か外注か？工場視点での最適解</title><link>https://bink-miya.github.io/world-of-factories/analysis/ai_dev_strategy/</link><pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate><guid>https://bink-miya.github.io/world-of-factories/analysis/ai_dev_strategy/</guid><description>生成AIにより開発コストは下がるが、内製か外注かの判断は単純ではない。長期的には設計能力の喪失というリスクも存在する。</description></item><item><title>なぜISOや内部統制は形骸化するのか？評価が組織を歪める構造</title><link>https://bink-miya.github.io/world-of-factories/analysis/iso_analysis_article/</link><pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate><guid>https://bink-miya.github.io/world-of-factories/analysis/iso_analysis_article/</guid><description>ISO、内部統制、SLQDCは本来現場を良くするための仕組みである。 それなのになぜ多くの組織でやること自体が目的になってしまうのか。 評価、形式、過去の学習という3つの視点から、その構造を整理する。</description></item><item><title>工場の統廃合は何で決まるのか？粗利/人と供給構造で読み解く再編の本質</title><link>https://bink-miya.github.io/world-of-factories/analysis/factory_restructuring_analysis/</link><pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate><guid>https://bink-miya.github.io/world-of-factories/analysis/factory_restructuring_analysis/</guid><description>工場の統廃合は何を基準に決まるのか。 粗利/人だけでなく、供給（立地・物流・原料）の視点から再編の構造を解説する。</description></item><item><title>データ活用からAI導入までの流れ【なぜDXは途中で止まるのか】</title><link>https://bink-miya.github.io/world-of-factories/analysis/data_analize/</link><pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate><guid>https://bink-miya.github.io/world-of-factories/analysis/data_analize/</guid><description>データ活用からAI導入までの流れを整理。DXが途中で止まる理由や、判断基準の欠如がAI活用を阻害する構造を分かりやすく解説します。</description></item><item><title>判断基準を数値化する方法【現場で使えるデータ活用の実践手順】</title><link>https://bink-miya.github.io/world-of-factories/analysis/2026-03-28-decision-quantification/</link><pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate><guid>https://bink-miya.github.io/world-of-factories/analysis/2026-03-28-decision-quantification/</guid><description>判断基準を数値化する方法を現場向けに解説。属人化をなくし、データで判断するための手順（分解・閾値設定・標準化）を実務レベルでまとめています。</description></item><item><title>なぜガソリンは高くなるのか？原油・ナフサから見る「世界は工場でできている」という話</title><link>https://bink-miya.github.io/world-of-factories/analysis/gasoline/</link><pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate><guid>https://bink-miya.github.io/world-of-factories/analysis/gasoline/</guid><description>&lt;h2 id="-結論"&gt;■ 結論&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Analyses on 世界は工場でできている</title><link>https://bink-miya.github.io/world-of-factories/analysis/</link><description>Recent content in Analyses on 世界は工場でできている</description><generator>Hugo</generator><language>en</language><lastBuildDate>Wed, 01 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://bink-miya.github.io/world-of-factories/analysis/index.xml" rel="self" type="application/rss+xml"/><item><title>なぜ同じ業界でも勝つ企業と負ける企業が分かれるのか？インフレ時代の企業構造の見方</title><link>https://bink-miya.github.io/world-of-factories/analysis/analysis_article/</link><pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate><guid>https://bink-miya.github.io/world-of-factories/analysis/analysis_article/</guid><description>&lt;h2 id="はじめに"&gt;はじめに&lt;/h2&gt;
+&lt;p&gt;前回の記事では、インフレによって「どこで利益が発生するのか」という構造を整理した。&lt;/p&gt;
+&lt;p&gt;ただ、現実には同じ業界に属していても、&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;利益を伸ばす企業&lt;/li&gt;
+&lt;li&gt;利益を圧迫される企業&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;がはっきりと分かれる。&lt;/p&gt;
+&lt;p&gt;この差は、業界の違いだけでは説明できない。&lt;/p&gt;
+&lt;p&gt;本記事では、その違いを&lt;strong&gt;企業の構造&lt;/strong&gt;という視点から整理する。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;※本記事は投資助言を目的としたものではありません。企業を見るための構造的な視点を整理したものです。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id="なぜ同じ業界でも勝敗が分かれるのか"&gt;なぜ同じ業界でも勝敗が分かれるのか&lt;/h2&gt;
+&lt;p&gt;同じ業界にいれば、同じような条件で戦っているように見える。&lt;/p&gt;
+&lt;p&gt;しかし実際には、企業ごとに次の3つが異なる。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;コスト構造&lt;/li&gt;
+&lt;li&gt;価格決定力&lt;/li&gt;
+&lt;li&gt;意思決定の速さ&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;つまり、勝敗を分けているのは業界名ではなく、&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;「企業の内部構造」&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;である。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="結論"&gt;結論&lt;/h2&gt;
+&lt;p&gt;強い企業とは、単に有利なポジションにいる企業ではない。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;環境変化を、そのまま利益に変換できる構造を持つ企業である。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;具体的には、&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;コスト上昇を吸収できる構造を持つか&lt;/li&gt;
+&lt;li&gt;価格に転嫁できる構造を持つか&lt;/li&gt;
+&lt;li&gt;変化に対して迅速に動ける構造を持つか&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;この3つのいずれか、あるいは複数を備えている企業が強い。&lt;/p&gt;
+&lt;p&gt;逆に、環境変化を「コスト」としてしか受け取れない企業は弱い。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="企業の勝敗を分ける3つの構造"&gt;企業の勝敗を分ける3つの構造&lt;/h2&gt;
+&lt;pre class="mermaid"&gt;
+graph TD
+A[企業の構造] --&amp;gt; B[コスト構造]
+A --&amp;gt; C[価格決定力]
+A --&amp;gt; D[意思決定の速さ]
+B --&amp;gt; B1[固定費が軽い]
+B --&amp;gt; B2[自動化・省人化]
+B --&amp;gt; B3[古い設備が少ない]
+C --&amp;gt; C1[値上げできる]
+C --&amp;gt; C2[代替が効きにくい]
+C --&amp;gt; C3[取引先に依存しすぎない]
+D --&amp;gt; D1[判断が速い]
+D --&amp;gt; D2[階層が少ない]
+D --&amp;gt; D3[変化に対応できる]
+&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id="-コスト構造コスト上昇を吸収できるか"&gt;① コスト構造：コスト上昇を吸収できるか&lt;/h2&gt;
+&lt;p&gt;インフレ時には、原材料費、燃料費、人件費などが上がる。&lt;/p&gt;
+&lt;p&gt;このとき強いのは、そうしたコスト上昇を受けても利益が崩れにくい企業である。&lt;/p&gt;</description></item><item><title>ペロブスカイトは本当に普及するのか――本当のボトルネックは電力システムにある</title><link>https://bink-miya.github.io/world-of-factories/analysis/perovskite-ems-analysis/</link><pubDate>Tue, 31 Mar 2026 00:00:00 +0900</pubDate><guid>https://bink-miya.github.io/world-of-factories/analysis/perovskite-ems-analysis/</guid><description>ペロブスカイト太陽電池の普及を、発電ではなく送電・蓄電・EMS・制度設計の側から読み解く分析記事。</description></item><item><title>生成AI時代、システム開発は内製か外注か？工場視点での最適解</title><link>https://bink-miya.github.io/world-of-factories/analysis/ai_dev_strategy/</link><pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate><guid>https://bink-miya.github.io/world-of-factories/analysis/ai_dev_strategy/</guid><description>生成AIにより開発コストは下がるが、内製か外注かの判断は単純ではない。長期的には設計能力の喪失というリスクも存在する。</description></item><item><title>なぜISOや内部統制は形骸化するのか？評価が組織を歪める構造</title><link>https://bink-miya.github.io/world-of-factories/analysis/iso_analysis_article/</link><pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate><guid>https://bink-miya.github.io/world-of-factories/analysis/iso_analysis_article/</guid><description>ISO、内部統制、SLQDCは本来現場を良くするための仕組みである。 それなのになぜ多くの組織でやること自体が目的になってしまうのか。 評価、形式、過去の学習という3つの視点から、その構造を整理する。</description></item><item><title>工場の統廃合は何で決まるのか？粗利/人と供給構造で読み解く再編の本質</title><link>https://bink-miya.github.io/world-of-factories/analysis/factory_restructuring_analysis/</link><pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate><guid>https://bink-miya.github.io/world-of-factories/analysis/factory_restructuring_analysis/</guid><description>工場の統廃合は何を基準に決まるのか。 粗利/人だけでなく、供給（立地・物流・原料）の視点から再編の構造を解説する。</description></item><item><title>データ活用からAI導入までの流れ【なぜDXは途中で止まるのか】</title><link>https://bink-miya.github.io/world-of-factories/analysis/data_analize/</link><pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate><guid>https://bink-miya.github.io/world-of-factories/analysis/data_analize/</guid><description>データ活用からAI導入までの流れを整理。DXが途中で止まる理由や、判断基準の欠如がAI活用を阻害する構造を分かりやすく解説します。</description></item><item><title>判断基準を数値化する方法【現場で使えるデータ活用の実践手順】</title><link>https://bink-miya.github.io/world-of-factories/analysis/2026-03-28-decision-quantification/</link><pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate><guid>https://bink-miya.github.io/world-of-factories/analysis/2026-03-28-decision-quantification/</guid><description>判断基準を数値化する方法を現場向けに解説。属人化をなくし、データで判断するための手順（分解・閾値設定・標準化）を実務レベルでまとめています。</description></item><item><title>なぜガソリンは高くなるのか？原油・ナフサから見る「世界は工場でできている」という話</title><link>https://bink-miya.github.io/world-of-factories/analysis/gasoline/</link><pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate><guid>https://bink-miya.github.io/world-of-factories/analysis/gasoline/</guid><description>&lt;h2 id="-結論"&gt;■ 結論&lt;/h2&gt;
 &lt;p&gt;ガソリン価格は単体で決まっているのではなく、&lt;br&gt;
 原油を起点とした「巨大な生産システム」の中で決まっている。&lt;/p&gt;
 &lt;p&gt;つまり、世界は一つの工場のように繋がっており、&lt;br&gt;

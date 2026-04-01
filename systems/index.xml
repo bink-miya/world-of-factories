@@ -1,4 +1,105 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Systems on 世界は工場でできている</title><link>https://bink-miya.github.io/world-of-factories/systems/</link><description>Recent content in Systems on 世界は工場でできている</description><generator>Hugo</generator><language>en</language><lastBuildDate>Tue, 31 Mar 2026 00:00:00 +0900</lastBuildDate><atom:link href="https://bink-miya.github.io/world-of-factories/systems/index.xml" rel="self" type="application/rss+xml"/><item><title>分散電源はどう制御されているのか――海外に見るEMSの実装構造</title><link>https://bink-miya.github.io/world-of-factories/systems/ems-global-structure/</link><pubDate>Tue, 31 Mar 2026 00:00:00 +0900</pubDate><guid>https://bink-miya.github.io/world-of-factories/systems/ems-global-structure/</guid><description>ペロブスカイトなど分散電源の普及を、海外EMS事例（ドイツ・米国・豪州）から構造的に読み解く分析記事。</description></item><item><title>工場DXが進まない本当の理由｜属人化と効果を説明できない問題の構造</title><link>https://bink-miya.github.io/world-of-factories/systems/factory_dx_problem/</link><pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate><guid>https://bink-miya.github.io/world-of-factories/systems/factory_dx_problem/</guid><description>工場DXが進まない理由は属人化と効果を説明できない構造にある。さらに人間の認知とインセンティブが分断を強化する。</description></item><item><title>製造・設備・品質・ITが混ざると会社は壊れる｜なぜ今、現場が崩れるのか</title><link>https://bink-miya.github.io/world-of-factories/systems/mermaid_factory_structure_article/</link><pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate><guid>https://bink-miya.github.io/world-of-factories/systems/mermaid_factory_structure_article/</guid><description>製造・設備・品質・ITの4つの役割が分離されていないことが、現場崩壊の原因です。なぜ昔は回っていたのか、なぜ今は崩れやすいのかを、Mermaid図解つきで構造的に解説します。</description></item><item><title>データ化からAI活用までの全体構造（なぜ多くの企業が途中で止まるのか）</title><link>https://bink-miya.github.io/world-of-factories/systems/2026-03-28-analist-seq/</link><pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate><guid>https://bink-miya.github.io/world-of-factories/systems/2026-03-28-analist-seq/</guid><description>&lt;p&gt;多くの企業がAI導入で失敗する理由はシンプルである。&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Systems on 世界は工場でできている</title><link>https://bink-miya.github.io/world-of-factories/systems/</link><description>Recent content in Systems on 世界は工場でできている</description><generator>Hugo</generator><language>en</language><lastBuildDate>Wed, 01 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://bink-miya.github.io/world-of-factories/systems/index.xml" rel="self" type="application/rss+xml"/><item><title>インフレで儲かるのは誰か？構造で読み解く日本の価格上昇</title><link>https://bink-miya.github.io/world-of-factories/systems/inflation_structure/</link><pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate><guid>https://bink-miya.github.io/world-of-factories/systems/inflation_structure/</guid><description>&lt;h2 id="はじめに"&gt;はじめに&lt;/h2&gt;
+&lt;p&gt;日本でも物価上昇が続く中、「誰が儲かっているのか？」は見えにくいテーマです。&lt;/p&gt;
+&lt;p&gt;本記事では、身近な5つの分野を例に、インフレ時の利益構造を分解します。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="国内生産の食品"&gt;国内生産の食品&lt;/h2&gt;
+&lt;pre class="mermaid"&gt;
+graph LR
+A[農家] --&amp;gt; B[卸売市場]
+B --&amp;gt; C[スーパー]
+C --&amp;gt; D[消費者]
+&lt;/pre&gt;
+&lt;h3 id="強いところ"&gt;強いところ&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;一部の大規模農家&lt;/li&gt;
+&lt;li&gt;強いスーパー&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="弱いところ"&gt;弱いところ&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;小規模農家&lt;/li&gt;
+&lt;li&gt;中間卸&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="理由"&gt;理由&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;農家：規模が小さいと価格転嫁できずコスト増を吸収できない&lt;/li&gt;
+&lt;li&gt;卸：仕入れ上昇と販売価格の板挟み&lt;/li&gt;
+&lt;li&gt;スーパー：規模が大きいほど価格決定力あり&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="輸入食品"&gt;輸入食品&lt;/h2&gt;
+&lt;pre class="mermaid"&gt;
+graph LR
+A[海外生産] --&amp;gt; B[商社]
+B --&amp;gt; C[食品メーカー]
+C --&amp;gt; D[小売]
+D --&amp;gt; E[消費者]
+&lt;/pre&gt;
+&lt;h3 id="強いところ-1"&gt;強いところ&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;商社&lt;/li&gt;
+&lt;li&gt;値上げできる食品メーカー&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="弱いところ-1"&gt;弱いところ&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;中小食品メーカー&lt;/li&gt;
+&lt;li&gt;消費者&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="理由-1"&gt;理由&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;商社：価格上昇をそのまま通せる&lt;/li&gt;
+&lt;li&gt;メーカー：ブランドがないと値上げ困難&lt;/li&gt;
+&lt;li&gt;消費者：為替と原料高を直接負担&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="ガソリン"&gt;ガソリン&lt;/h2&gt;
+&lt;pre class="mermaid"&gt;
+graph LR
+A[原油] --&amp;gt; B[石油元売]
+B --&amp;gt; C[ガソリンスタンド]
+C --&amp;gt; D[消費者]
+&lt;/pre&gt;
+&lt;h3 id="強いところ-2"&gt;強いところ&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;資源保有者&lt;/li&gt;
+&lt;li&gt;元売企業&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="弱いところ-2"&gt;弱いところ&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;消費者&lt;/li&gt;
+&lt;li&gt;物流業者&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="理由-2"&gt;理由&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;上流が価格を決定&lt;/li&gt;
+&lt;li&gt;代替手段がなく、下流はコストを受け入れるしかない&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="生活雑貨"&gt;生活雑貨&lt;/h2&gt;
+&lt;pre class="mermaid"&gt;
+graph LR
+A[原材料] --&amp;gt; B[メーカー]
+B --&amp;gt; C[小売]
+C --&amp;gt; D[消費者]
+&lt;/pre&gt;
+&lt;h3 id="強いところ-3"&gt;強いところ&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;原材料メーカー&lt;/li&gt;
+&lt;li&gt;ブランドメーカー&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="弱いところ-3"&gt;弱いところ&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;中小メーカー&lt;/li&gt;
+&lt;li&gt;小売&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="理由-3"&gt;理由&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;原材料：価格そのものを握る&lt;/li&gt;
+&lt;li&gt;ブランド：値上げできる&lt;/li&gt;
+&lt;li&gt;小売：競争激しく価格転嫁しにくい&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="結論"&gt;結論&lt;/h2&gt;
+&lt;p&gt;インフレで儲かるのは以下の3層です：&lt;/p&gt;</description></item><item><title>分散電源はどう制御されているのか――海外に見るEMSの実装構造</title><link>https://bink-miya.github.io/world-of-factories/systems/ems-global-structure/</link><pubDate>Tue, 31 Mar 2026 00:00:00 +0900</pubDate><guid>https://bink-miya.github.io/world-of-factories/systems/ems-global-structure/</guid><description>ペロブスカイトなど分散電源の普及を、海外EMS事例（ドイツ・米国・豪州）から構造的に読み解く分析記事。</description></item><item><title>工場DXが進まない本当の理由｜属人化と効果を説明できない問題の構造</title><link>https://bink-miya.github.io/world-of-factories/systems/factory_dx_problem/</link><pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate><guid>https://bink-miya.github.io/world-of-factories/systems/factory_dx_problem/</guid><description>工場DXが進まない理由は属人化と効果を説明できない構造にある。さらに人間の認知とインセンティブが分断を強化する。</description></item><item><title>製造・設備・品質・ITが混ざると会社は壊れる｜なぜ今、現場が崩れるのか</title><link>https://bink-miya.github.io/world-of-factories/systems/mermaid_factory_structure_article/</link><pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate><guid>https://bink-miya.github.io/world-of-factories/systems/mermaid_factory_structure_article/</guid><description>製造・設備・品質・ITの4つの役割が分離されていないことが、現場崩壊の原因です。なぜ昔は回っていたのか、なぜ今は崩れやすいのかを、Mermaid図解つきで構造的に解説します。</description></item><item><title>データ化からAI活用までの全体構造（なぜ多くの企業が途中で止まるのか）</title><link>https://bink-miya.github.io/world-of-factories/systems/2026-03-28-analist-seq/</link><pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate><guid>https://bink-miya.github.io/world-of-factories/systems/2026-03-28-analist-seq/</guid><description>&lt;p&gt;多くの企業がAI導入で失敗する理由はシンプルである。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;順番を間違えているからだ。&lt;/strong&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id="-データ活用の全体構造"&gt;■ データ活用の全体構造&lt;/h2&gt;

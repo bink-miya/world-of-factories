@@ -1,4 +1,138 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Blogs on 世界は工場でできている</title><link>https://bink-miya.github.io/world-of-factories/blog/</link><description>Recent content in Blogs on 世界は工場でできている</description><generator>Hugo</generator><language>en</language><lastBuildDate>Tue, 31 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://bink-miya.github.io/world-of-factories/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>人生を「受注」していないか？サービス社会の違和感</title><link>https://bink-miya.github.io/world-of-factories/blog/2026-03-31-article_service_society/</link><pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate><guid>https://bink-miya.github.io/world-of-factories/blog/2026-03-31-article_service_society/</guid><description>&lt;h2 id="はじめに"&gt;はじめに&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Blogs on 世界は工場でできている</title><link>https://bink-miya.github.io/world-of-factories/blog/</link><description>Recent content in Blogs on 世界は工場でできている</description><generator>Hugo</generator><language>en</language><lastBuildDate>Wed, 01 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://bink-miya.github.io/world-of-factories/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>あなたの会社は強い？3分でわかる構造チェック【インフレ対応力診断】</title><link>https://bink-miya.github.io/world-of-factories/blog/2026-04-01-structure_check_interactive/</link><pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate><guid>https://bink-miya.github.io/world-of-factories/blog/2026-04-01-structure_check_interactive/</guid><description>&lt;h2 id="はじめに"&gt;はじめに&lt;/h2&gt;
+&lt;p&gt;前回の記事では、インフレ時代における企業の強さは、&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;コスト構造&lt;/li&gt;
+&lt;li&gt;価格決定力&lt;/li&gt;
+&lt;li&gt;意思決定の速さ&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;で決まると整理した。&lt;/p&gt;
+&lt;p&gt;では実際に、あなたの会社はどちら側にいるのか。&lt;/p&gt;
+&lt;p&gt;簡単なチェックで見てみよう。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;※この診断は企業の構造を考えるための簡易チェックです。正式な経営診断や投資判断の代わりではありません。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id="3分でわかる構造チェック"&gt;3分でわかる構造チェック&lt;/h2&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;pre&gt;&lt;code&gt;#structure-check-app * { box-sizing: border-box; }
+#structure-check-app .lead {
+color: var(--muted);
+margin: 0 0 1rem;
+font-size: 0.98rem;
+}
+#structure-check-app .card {
+background: var(--card);
+border: 1px solid var(--border);
+border-radius: 18px;
+padding: 22px;
+box-shadow: 0 6px 20px rgba(0,0,0,0.04);
+margin-top: 18px;
+}
+#structure-check-app h3 {
+font-size: 1.25rem;
+margin: 0 0 0.4rem;
+}
+#structure-check-app .section-desc {
+color: var(--muted);
+margin: 0 0 1rem;
+font-size: 0.95rem;
+}
+#structure-check-app .question {
+padding: 12px 0;
+border-top: 1px solid var(--border);
+}
+#structure-check-app .question:first-of-type {
+border-top: 0;
+padding-top: 0;
+}
+#structure-check-app label {
+display: flex;
+gap: 12px;
+align-items: flex-start;
+cursor: pointer;
+font-size: 1rem;
+}
+#structure-check-app input[type=&amp;quot;checkbox&amp;quot;] {
+margin-top: 4px;
+width: 18px;
+height: 18px;
+flex: 0 0 18px;
+}
+#structure-check-app .actions {
+display: flex;
+gap: 12px;
+flex-wrap: wrap;
+margin-top: 24px;
+}
+#structure-check-app button {
+border: 0;
+border-radius: 12px;
+padding: 14px 18px;
+font-size: 1rem;
+font-weight: 700;
+cursor: pointer;
+}
+#structure-check-app .primary {
+background: var(--accent);
+color: #fff;
+}
+#structure-check-app .secondary {
+background: #fff;
+color: var(--accent);
+border: 1px solid var(--border);
+}
+#structure-check-app .result {
+display: none;
+margin-top: 26px;
+}
+#structure-check-app .result.show {
+display: block;
+}
+#structure-check-app .badge {
+display: inline-block;
+font-size: 0.82rem;
+font-weight: 700;
+padding: 6px 10px;
+border-radius: 999px;
+margin-bottom: 12px;
+}
+#structure-check-app .badge.ok { color: var(--ok); background: var(--ok-bg); }
+#structure-check-app .badge.mid { color: var(--mid); background: var(--mid-bg); }
+#structure-check-app .badge.bad { color: var(--bad); background: var(--bad-bg); }
+#structure-check-app .result-title {
+margin: 0 0 8px;
+font-size: 1.5rem;
+}
+#structure-check-app .score-grid {
+display: grid;
+grid-template-columns: repeat(3, minmax(0, 1fr));
+gap: 12px;
+margin-top: 18px;
+}
+#structure-check-app .score-box {
+border: 1px solid var(--border);
+border-radius: 14px;
+padding: 14px;
+background: #fafafa;
+}
+#structure-check-app .score-box strong {
+display: block;
+font-size: 1.5rem;
+line-height: 1.2;
+margin-top: 4px;
+}
+#structure-check-app .footer-note {
+margin-top: 18px;
+color: var(--muted);
+font-size: 0.9rem;
+}
+@media (max-width: 640px) {
+#structure-check-app .score-grid {
+grid-template-columns: 1fr;
+}
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description></item><item><title>人生を「受注」していないか？サービス社会の違和感</title><link>https://bink-miya.github.io/world-of-factories/blog/2026-03-31-article_service_society/</link><pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate><guid>https://bink-miya.github.io/world-of-factories/blog/2026-03-31-article_service_society/</guid><description>&lt;h2 id="はじめに"&gt;はじめに&lt;/h2&gt;
 &lt;p&gt;日本のサービスは世界でもトップクラスだと言われています。&lt;br&gt;
 コンビニ、飲食、ITサービス、どれをとっても「ここまでやるのか」と感じる場面が多い。&lt;/p&gt;
 &lt;p&gt;しかし最近、こんな違和感を覚えるようになりました。&lt;/p&gt;

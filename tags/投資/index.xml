@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>投資 on 世界は工場でできている</title><link>https://bink-miya.github.io/world-of-factories/tags/%E6%8A%95%E8%B3%87/</link><description>Recent content in 投資 on 世界は工場でできている</description><generator>Hugo</generator><language>en</language><lastBuildDate>Wed, 01 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://bink-miya.github.io/world-of-factories/tags/%E6%8A%95%E8%B3%87/index.xml" rel="self" type="application/rss+xml"/><item><title>インフレで儲かるのは誰か？構造で読み解く日本の価格上昇</title><link>https://bink-miya.github.io/world-of-factories/systems/inflation_structure/</link><pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate><guid>https://bink-miya.github.io/world-of-factories/systems/inflation_structure/</guid><description>&lt;h2 id="はじめに"&gt;はじめに&lt;/h2&gt;
+&lt;p&gt;日本でも物価上昇が続く中、「誰が儲かっているのか？」は見えにくいテーマです。&lt;/p&gt;
+&lt;p&gt;本記事では、身近な5つの分野を例に、インフレ時の利益構造を分解します。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="国内生産の食品"&gt;国内生産の食品&lt;/h2&gt;
+&lt;pre class="mermaid"&gt;
+graph LR
+A[農家] --&amp;gt; B[卸売市場]
+B --&amp;gt; C[スーパー]
+C --&amp;gt; D[消費者]
+&lt;/pre&gt;
+&lt;h3 id="強いところ"&gt;強いところ&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;一部の大規模農家&lt;/li&gt;
+&lt;li&gt;強いスーパー&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="弱いところ"&gt;弱いところ&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;小規模農家&lt;/li&gt;
+&lt;li&gt;中間卸&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="理由"&gt;理由&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;農家：規模が小さいと価格転嫁できずコスト増を吸収できない&lt;/li&gt;
+&lt;li&gt;卸：仕入れ上昇と販売価格の板挟み&lt;/li&gt;
+&lt;li&gt;スーパー：規模が大きいほど価格決定力あり&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="輸入食品"&gt;輸入食品&lt;/h2&gt;
+&lt;pre class="mermaid"&gt;
+graph LR
+A[海外生産] --&amp;gt; B[商社]
+B --&amp;gt; C[食品メーカー]
+C --&amp;gt; D[小売]
+D --&amp;gt; E[消費者]
+&lt;/pre&gt;
+&lt;h3 id="強いところ-1"&gt;強いところ&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;商社&lt;/li&gt;
+&lt;li&gt;値上げできる食品メーカー&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="弱いところ-1"&gt;弱いところ&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;中小食品メーカー&lt;/li&gt;
+&lt;li&gt;消費者&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="理由-1"&gt;理由&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;商社：価格上昇をそのまま通せる&lt;/li&gt;
+&lt;li&gt;メーカー：ブランドがないと値上げ困難&lt;/li&gt;
+&lt;li&gt;消費者：為替と原料高を直接負担&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="ガソリン"&gt;ガソリン&lt;/h2&gt;
+&lt;pre class="mermaid"&gt;
+graph LR
+A[原油] --&amp;gt; B[石油元売]
+B --&amp;gt; C[ガソリンスタンド]
+C --&amp;gt; D[消費者]
+&lt;/pre&gt;
+&lt;h3 id="強いところ-2"&gt;強いところ&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;資源保有者&lt;/li&gt;
+&lt;li&gt;元売企業&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="弱いところ-2"&gt;弱いところ&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;消費者&lt;/li&gt;
+&lt;li&gt;物流業者&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="理由-2"&gt;理由&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;上流が価格を決定&lt;/li&gt;
+&lt;li&gt;代替手段がなく、下流はコストを受け入れるしかない&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="生活雑貨"&gt;生活雑貨&lt;/h2&gt;
+&lt;pre class="mermaid"&gt;
+graph LR
+A[原材料] --&amp;gt; B[メーカー]
+B --&amp;gt; C[小売]
+C --&amp;gt; D[消費者]
+&lt;/pre&gt;
+&lt;h3 id="強いところ-3"&gt;強いところ&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;原材料メーカー&lt;/li&gt;
+&lt;li&gt;ブランドメーカー&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="弱いところ-3"&gt;弱いところ&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;中小メーカー&lt;/li&gt;
+&lt;li&gt;小売&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="理由-3"&gt;理由&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;原材料：価格そのものを握る&lt;/li&gt;
+&lt;li&gt;ブランド：値上げできる&lt;/li&gt;
+&lt;li&gt;小売：競争激しく価格転嫁しにくい&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="結論"&gt;結論&lt;/h2&gt;
+&lt;p&gt;インフレで儲かるのは以下の3層です：&lt;/p&gt;</description></item></channel></rss>

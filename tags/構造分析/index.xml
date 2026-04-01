@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>構造分析 on 世界は工場でできている</title><link>https://bink-miya.github.io/world-of-factories/tags/%E6%A7%8B%E9%80%A0%E5%88%86%E6%9E%90/</link><description>Recent content in 構造分析 on 世界は工場でできている</description><generator>Hugo</generator><language>en</language><lastBuildDate>Wed, 01 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://bink-miya.github.io/world-of-factories/tags/%E6%A7%8B%E9%80%A0%E5%88%86%E6%9E%90/index.xml" rel="self" type="application/rss+xml"/><item><title>なぜ同じ業界でも勝つ企業と負ける企業が分かれるのか？インフレ時代の企業構造の見方</title><link>https://bink-miya.github.io/world-of-factories/analysis/analysis_article/</link><pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate><guid>https://bink-miya.github.io/world-of-factories/analysis/analysis_article/</guid><description>&lt;h2 id="はじめに"&gt;はじめに&lt;/h2&gt;
+&lt;p&gt;前回の記事では、インフレによって「どこで利益が発生するのか」という構造を整理した。&lt;/p&gt;
+&lt;p&gt;ただ、現実には同じ業界に属していても、&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;利益を伸ばす企業&lt;/li&gt;
+&lt;li&gt;利益を圧迫される企業&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;がはっきりと分かれる。&lt;/p&gt;
+&lt;p&gt;この差は、業界の違いだけでは説明できない。&lt;/p&gt;
+&lt;p&gt;本記事では、その違いを&lt;strong&gt;企業の構造&lt;/strong&gt;という視点から整理する。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;※本記事は投資助言を目的としたものではありません。企業を見るための構造的な視点を整理したものです。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id="なぜ同じ業界でも勝敗が分かれるのか"&gt;なぜ同じ業界でも勝敗が分かれるのか&lt;/h2&gt;
+&lt;p&gt;同じ業界にいれば、同じような条件で戦っているように見える。&lt;/p&gt;
+&lt;p&gt;しかし実際には、企業ごとに次の3つが異なる。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;コスト構造&lt;/li&gt;
+&lt;li&gt;価格決定力&lt;/li&gt;
+&lt;li&gt;意思決定の速さ&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;つまり、勝敗を分けているのは業界名ではなく、&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;「企業の内部構造」&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;である。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="結論"&gt;結論&lt;/h2&gt;
+&lt;p&gt;強い企業とは、単に有利なポジションにいる企業ではない。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;環境変化を、そのまま利益に変換できる構造を持つ企業である。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;具体的には、&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;コスト上昇を吸収できる構造を持つか&lt;/li&gt;
+&lt;li&gt;価格に転嫁できる構造を持つか&lt;/li&gt;
+&lt;li&gt;変化に対して迅速に動ける構造を持つか&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;この3つのいずれか、あるいは複数を備えている企業が強い。&lt;/p&gt;
+&lt;p&gt;逆に、環境変化を「コスト」としてしか受け取れない企業は弱い。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="企業の勝敗を分ける3つの構造"&gt;企業の勝敗を分ける3つの構造&lt;/h2&gt;
+&lt;pre class="mermaid"&gt;
+graph TD
+A[企業の構造] --&amp;gt; B[コスト構造]
+A --&amp;gt; C[価格決定力]
+A --&amp;gt; D[意思決定の速さ]
+B --&amp;gt; B1[固定費が軽い]
+B --&amp;gt; B2[自動化・省人化]
+B --&amp;gt; B3[古い設備が少ない]
+C --&amp;gt; C1[値上げできる]
+C --&amp;gt; C2[代替が効きにくい]
+C --&amp;gt; C3[取引先に依存しすぎない]
+D --&amp;gt; D1[判断が速い]
+D --&amp;gt; D2[階層が少ない]
+D --&amp;gt; D3[変化に対応できる]
+&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id="-コスト構造コスト上昇を吸収できるか"&gt;① コスト構造：コスト上昇を吸収できるか&lt;/h2&gt;
+&lt;p&gt;インフレ時には、原材料費、燃料費、人件費などが上がる。&lt;/p&gt;
+&lt;p&gt;このとき強いのは、そうしたコスト上昇を受けても利益が崩れにくい企業である。&lt;/p&gt;</description></item></channel></rss>
