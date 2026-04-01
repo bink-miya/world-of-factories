@@ -13,29 +13,116 @@
 &lt;/blockquote&gt;
 &lt;hr&gt;
 &lt;h2 id="3分でわかる構造チェック"&gt;3分でわかる構造チェック&lt;/h2&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;hr&gt;
-&lt;h2 id="このチェックで見てほしいこと"&gt;このチェックで見てほしいこと&lt;/h2&gt;
-&lt;p&gt;重要なのは点数そのものではない。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;なぜ YES になったのか&lt;/li&gt;
-&lt;li&gt;どこに YES が集中したのか&lt;/li&gt;
-&lt;li&gt;どの構造が足を引っ張っているのか&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;を見ることで、自社の弱点が見えてくる。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id="本質"&gt;本質&lt;/h2&gt;
-&lt;p&gt;インフレは企業を選別する。&lt;/p&gt;
-&lt;p&gt;しかしそれは、新しく強さを作るのではない。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;もともと持っている構造の違いを、結果として表に出すだけである。&lt;/strong&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id="おわりに"&gt;おわりに&lt;/h2&gt;
-&lt;p&gt;このチェックは企業だけでなく、&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;自分の部署&lt;/li&gt;
-&lt;li&gt;自分の仕事&lt;/li&gt;
-&lt;li&gt;自分のキャリア&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;にも当てはめることができる。&lt;/p&gt;
-&lt;p&gt;自分がどの構造の上に立っているのか。&lt;/p&gt;
-&lt;p&gt;それを知ることが、次の選択につながる。&lt;/p&gt;</description></item></channel></rss>
+&lt;div id="structure-check-app"&gt;
+&lt;style&gt;
+#structure-check-app {
+--bg: #f7f7f8;
+--card: #ffffff;
+--text: #1f2937;
+--muted: #6b7280;
+--border: #e5e7eb;
+--accent: #111827;
+--ok: #065f46;
+--ok-bg: #ecfdf5;
+--mid: #92400e;
+--mid-bg: #fffbeb;
+--bad: #991b1b;
+--bad-bg: #fef2f2;
+margin: 2rem 0;
+color: var(--text);
+line-height: 1.7;
+}
+#structure-check-app * { box-sizing: border-box; }
+#structure-check-app .lead {
+color: var(--muted);
+margin: 0 0 1rem;
+}
+#structure-check-app .card {
+background: var(--card);
+border: 1px solid var(--border);
+border-radius: 18px;
+padding: 22px;
+margin-top: 18px;
+}
+#structure-check-app .question {
+padding: 12px 0;
+border-top: 1px solid var(--border);
+}
+#structure-check-app .question:first-of-type {
+border-top: 0;
+padding-top: 0;
+}
+#structure-check-app label {
+display: flex;
+gap: 12px;
+align-items: flex-start;
+cursor: pointer;
+}
+#structure-check-app input[type="checkbox"] {
+margin-top: 4px;
+width: 18px;
+height: 18px;
+flex: 0 0 18px;
+}
+#structure-check-app .actions {
+display: flex;
+gap: 12px;
+flex-wrap: wrap;
+margin-top: 24px;
+}
+#structure-check-app button {
+border: 0;
+border-radius: 12px;
+padding: 14px 18px;
+font-size: 1rem;
+font-weight: 700;
+cursor: pointer;
+}
+#structure-check-app .primary {
+background: var(--accent);
+color: #fff;
+}
+#structure-check-app .secondary {
+background: #fff;
+color: var(--accent);
+border: 1px solid var(--border);
+}
+#structure-check-app .result {
+display: none;
+margin-top: 26px;
+}
+#structure-check-app .result.show {
+display: block;
+}
+#structure-check-app .badge {
+display: inline-block;
+font-size: 0.82rem;
+font-weight: 700;
+padding: 6px 10px;
+border-radius: 999px;
+margin-bottom: 12px;
+}
+#structure-check-app .badge.ok { color: var(--ok); background: var(--ok-bg); }
+#structure-check-app .badge.mid { color: var(--mid); background: var(--mid-bg); }
+#structure-check-app .badge.bad { color: var(--bad); background: var(--bad-bg); }
+#structure-check-app .score-grid {
+display: grid;
+grid-template-columns: repeat(3, minmax(0, 1fr));
+gap: 12px;
+margin-top: 18px;
+}
+#structure-check-app .score-box {
+border: 1px solid var(--border);
+border-radius: 14px;
+padding: 14px;
+background: #fafafa;
+}
+@media (max-width: 640px) {
+#structure-check-app .score-grid {
+grid-template-columns: 1fr;
+}
+}
+&lt;/style&gt;
+&lt;p class="lead"&gt;
+当てはまる項目にチェックを入れて、「診断する」を押してください。
+&lt;/p&gt;</description></item></channel></rss>
