@@ -13,46 +13,70 @@
 &lt;/blockquote&gt;
 &lt;hr&gt;
 &lt;h2 id="3分でわかる構造チェック"&gt;3分でわかる構造チェック&lt;/h2&gt;
-&lt;div id="structure-check-app"&gt;
+&lt;script src="https://bink-miya.github.io/world-of-factories/js/structure-check.js"&gt;&lt;/script&gt;
+&lt;div id="structure-check-app" class="structure-check-app"&gt;
 &lt;style&gt;
-#structure-check-app {
---bg: #f7f7f8;
---card: #ffffff;
---text: #1f2937;
---muted: #6b7280;
---border: #e5e7eb;
---accent: #111827;
---ok: #065f46;
---ok-bg: #ecfdf5;
---mid: #92400e;
---mid-bg: #fffbeb;
---bad: #991b1b;
---bad-bg: #fef2f2;
+#structure-check-app.structure-check-app {
+--sc-bg: #eef2f7;
+--sc-card: #ffffff;
+--sc-text: #1f2937;
+--sc-muted: #6b7280;
+--sc-border: #d1d5db;
+--sc-accent: #111827;
+--sc-ok: #065f46;
+--sc-ok-bg: #d1fae5;
+--sc-mid: #92400e;
+--sc-mid-bg: #fef3c7;
+--sc-bad: #991b1b;
+--sc-bad-bg: #fee2e2;
 margin: 2rem 0;
-color: var(--text);
+padding: 20px;
+border-radius: 20px;
+background: var(--sc-bg) !important;
+color: var(--sc-text) !important;
 line-height: 1.7;
 }
-#structure-check-app * { box-sizing: border-box; }
-#structure-check-app .lead {
-color: var(--muted);
+#structure-check-app * {
+box-sizing: border-box;
+}
+#structure-check-app p,
+#structure-check-app div,
+#structure-check-app span,
+#structure-check-app label,
+#structure-check-app h3,
+#structure-check-app strong {
+color: var(--sc-text);
+}
+#structure-check-app .sc-lead {
+color: var(--sc-muted) !important;
 margin: 0 0 1rem;
 }
-#structure-check-app .card {
-background: var(--card);
-border: 1px solid var(--border);
+#structure-check-app .sc-card {
+background: var(--sc-card) !important;
+border: 1px solid var(--sc-border) !important;
 border-radius: 18px;
 padding: 22px;
 margin-top: 18px;
+box-shadow: 0 6px 20px rgba(0,0,0,0.06);
 }
-#structure-check-app .question {
+#structure-check-app h3 {
+margin: 0 0 0.5rem;
+font-size: 1.2rem;
+}
+#structure-check-app .sc-section-desc {
+color: var(--sc-muted) !important;
+margin: 0 0 1rem;
+font-size: 0.95rem;
+}
+#structure-check-app .sc-question {
 padding: 12px 0;
-border-top: 1px solid var(--border);
+border-top: 1px solid var(--sc-border);
 }
-#structure-check-app .question:first-of-type {
+#structure-check-app .sc-question:first-of-type {
 border-top: 0;
 padding-top: 0;
 }
-#structure-check-app label {
+#structure-check-app .sc-label {
 display: flex;
 gap: 12px;
 align-items: flex-start;
@@ -63,38 +87,47 @@ margin-top: 4px;
 width: 18px;
 height: 18px;
 flex: 0 0 18px;
+accent-color: #111827;
 }
-#structure-check-app .actions {
+#structure-check-app .sc-actions {
 display: flex;
 gap: 12px;
 flex-wrap: wrap;
 margin-top: 24px;
 }
-#structure-check-app button {
+#structure-check-app .sc-btn {
+appearance: none;
 border: 0;
 border-radius: 12px;
 padding: 14px 18px;
 font-size: 1rem;
 font-weight: 700;
 cursor: pointer;
+transition: transform 0.05s ease, opacity 0.15s ease;
 }
-#structure-check-app .primary {
-background: var(--accent);
-color: #fff;
+#structure-check-app .sc-btn:hover {
+opacity: 0.92;
 }
-#structure-check-app .secondary {
-background: #fff;
-color: var(--accent);
-border: 1px solid var(--border);
+#structure-check-app .sc-btn:active {
+transform: translateY(1px);
 }
-#structure-check-app .result {
+#structure-check-app .sc-btn-primary {
+background: var(--sc-accent) !important;
+color: #fff !important;
+}
+#structure-check-app .sc-btn-secondary {
+background: #fff !important;
+color: var(--sc-accent) !important;
+border: 1px solid var(--sc-border) !important;
+}
+#structure-check-app .sc-result {
 display: none;
 margin-top: 26px;
 }
-#structure-check-app .result.show {
+#structure-check-app .sc-result.show {
 display: block;
 }
-#structure-check-app .badge {
+#structure-check-app .sc-badge {
 display: inline-block;
 font-size: 0.82rem;
 font-weight: 700;
@@ -102,29 +135,55 @@ padding: 6px 10px;
 border-radius: 999px;
 margin-bottom: 12px;
 }
-#structure-check-app .badge.ok { color: var(--ok); background: var(--ok-bg); }
-#structure-check-app .badge.mid { color: var(--mid); background: var(--mid-bg); }
-#structure-check-app .badge.bad { color: var(--bad); background: var(--bad-bg); }
-#structure-check-app .score-grid {
+#structure-check-app .sc-badge.ok {
+color: var(--sc-ok) !important;
+background: var(--sc-ok-bg) !important;
+}
+#structure-check-app .sc-badge.mid {
+color: var(--sc-mid) !important;
+background: var(--sc-mid-bg) !important;
+}
+#structure-check-app .sc-badge.bad {
+color: var(--sc-bad) !important;
+background: var(--sc-bad-bg) !important;
+}
+#structure-check-app .sc-result-title {
+margin: 0 0 8px;
+font-size: 1.5rem;
+font-weight: 700;
+}
+#structure-check-app .sc-score-grid {
 display: grid;
 grid-template-columns: repeat(3, minmax(0, 1fr));
 gap: 12px;
 margin-top: 18px;
 }
-#structure-check-app .score-box {
-border: 1px solid var(--border);
+#structure-check-app .sc-score-box {
+border: 1px solid var(--sc-border) !important;
 border-radius: 14px;
 padding: 14px;
-background: #fafafa;
+background: #f8fafc !important;
+}
+#structure-check-app .sc-score-box strong {
+display: block;
+font-size: 1.5rem;
+line-height: 1.2;
+margin-top: 4px;
+}
+#structure-check-app .sc-footer-note {
+margin-top: 18px;
+color: var(--sc-muted) !important;
+font-size: 0.9rem;
 }
 @media (max-width: 640px) {
-#structure-check-app .score-grid {
+#structure-check-app .sc-score-grid {
 grid-template-columns: 1fr;
 }
 }
 &lt;/style&gt;
-&lt;p class="lead"&gt;
+&lt;p class="sc-lead"&gt;
 当てはまる項目にチェックを入れて、「診断する」を押してください。
+YES が多いほど、インフレやコスト上昇に弱い構造です。
 &lt;/p&gt;</description></item><item><title>インフレで儲かるのは誰か？構造で読み解く日本の価格上昇</title><link>https://bink-miya.github.io/world-of-factories/systems/inflation_structure/</link><pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate><guid>https://bink-miya.github.io/world-of-factories/systems/inflation_structure/</guid><description>&lt;h2 id="はじめに"&gt;はじめに&lt;/h2&gt;
 &lt;p&gt;日本でも物価上昇が続く中、「誰が儲かっているのか？」は見えにくいテーマです。&lt;/p&gt;
 &lt;p&gt;本記事では、身近な5つの分野を例に、インフレ時の利益構造を分解します。&lt;/p&gt;
