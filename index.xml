@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>世界は工場でできている</title><link>https://bink-miya.github.io/world-of-factories/</link><description>Recent content on 世界は工場でできている</description><generator>Hugo</generator><language>en</language><lastBuildDate>Wed, 01 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://bink-miya.github.io/world-of-factories/index.xml" rel="self" type="application/rss+xml"/><item><title>あなたの会社は強い？3分でわかる構造チェック【インフレ対応力診断】</title><link>https://bink-miya.github.io/world-of-factories/blog/2026-04-01-structure_check_interactive/</link><pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate><guid>https://bink-miya.github.io/world-of-factories/blog/2026-04-01-structure_check_interactive/</guid><description>&lt;h2 id="はじめに"&gt;はじめに&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>世界は工場でできている</title><link>https://world-of-factories.netlify.app/</link><description>Recent content on 世界は工場でできている</description><generator>Hugo</generator><language>en</language><lastBuildDate>Wed, 01 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://world-of-factories.netlify.app/index.xml" rel="self" type="application/rss+xml"/><item><title>あなたの会社は強い？3分でわかる構造チェック【インフレ対応力診断】</title><link>https://world-of-factories.netlify.app/blog/2026-04-01-structure_check_interactive/</link><pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate><guid>https://world-of-factories.netlify.app/blog/2026-04-01-structure_check_interactive/</guid><description>&lt;h2 id="はじめに"&gt;はじめに&lt;/h2&gt;
 &lt;p&gt;前回の記事では、インフレ時代における企業の強さは、&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;コスト構造&lt;/li&gt;
@@ -183,7 +183,7 @@ grid-template-columns: 1fr;
 &lt;p class="sc-lead"&gt;
 当てはまる項目にチェックを入れて、「診断する」を押してください。
 YES が多いほど、インフレやコスト上昇に弱い構造です。
-&lt;/p&gt;</description></item><item><title>インフレで儲かるのは誰か？構造で読み解く日本の価格上昇</title><link>https://bink-miya.github.io/world-of-factories/systems/inflation_structure/</link><pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate><guid>https://bink-miya.github.io/world-of-factories/systems/inflation_structure/</guid><description>&lt;h2 id="はじめに"&gt;はじめに&lt;/h2&gt;
+&lt;/p&gt;</description></item><item><title>インフレで儲かるのは誰か？構造で読み解く日本の価格上昇</title><link>https://world-of-factories.netlify.app/systems/inflation_structure/</link><pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate><guid>https://world-of-factories.netlify.app/systems/inflation_structure/</guid><description>&lt;h2 id="はじめに"&gt;はじめに&lt;/h2&gt;
 &lt;p&gt;日本でも物価上昇が続く中、「誰が儲かっているのか？」は見えにくいテーマです。&lt;/p&gt;
 &lt;p&gt;本記事では、身近な5つの分野を例に、インフレ時の利益構造を分解します。&lt;/p&gt;
 &lt;hr&gt;
@@ -284,7 +284,7 @@ C --&amp;gt; D[消費者]
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h2 id="結論"&gt;結論&lt;/h2&gt;
-&lt;p&gt;インフレで儲かるのは以下の3層です：&lt;/p&gt;</description></item><item><title>なぜ同じ業界でも勝つ企業と負ける企業が分かれるのか？インフレ時代の企業構造の見方</title><link>https://bink-miya.github.io/world-of-factories/analysis/analysis_article/</link><pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate><guid>https://bink-miya.github.io/world-of-factories/analysis/analysis_article/</guid><description>&lt;h2 id="はじめに"&gt;はじめに&lt;/h2&gt;
+&lt;p&gt;インフレで儲かるのは以下の3層です：&lt;/p&gt;</description></item><item><title>なぜ同じ業界でも勝つ企業と負ける企業が分かれるのか？インフレ時代の企業構造の見方</title><link>https://world-of-factories.netlify.app/analysis/analysis_article/</link><pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate><guid>https://world-of-factories.netlify.app/analysis/analysis_article/</guid><description>&lt;h2 id="はじめに"&gt;はじめに&lt;/h2&gt;
 &lt;p&gt;前回の記事では、インフレによって「どこで利益が発生するのか」という構造を整理した。&lt;/p&gt;
 &lt;p&gt;ただ、現実には同じ業界に属していても、&lt;/p&gt;
 &lt;ul&gt;
@@ -341,7 +341,7 @@ D --&amp;gt; D3[変化に対応できる]
 &lt;hr&gt;
 &lt;h2 id="-コスト構造コスト上昇を吸収できるか"&gt;① コスト構造：コスト上昇を吸収できるか&lt;/h2&gt;
 &lt;p&gt;インフレ時には、原材料費、燃料費、人件費などが上がる。&lt;/p&gt;
-&lt;p&gt;このとき強いのは、そうしたコスト上昇を受けても利益が崩れにくい企業である。&lt;/p&gt;</description></item><item><title>自走できる人材の見分け方と育成の型｜構造で失敗を防ぐ</title><link>https://bink-miya.github.io/world-of-factories/analysis/jisou_jinzai/</link><pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate><guid>https://bink-miya.github.io/world-of-factories/analysis/jisou_jinzai/</guid><description>&lt;h2 id="はじめに"&gt;はじめに&lt;/h2&gt;
+&lt;p&gt;このとき強いのは、そうしたコスト上昇を受けても利益が崩れにくい企業である。&lt;/p&gt;</description></item><item><title>自走できる人材の見分け方と育成の型｜構造で失敗を防ぐ</title><link>https://world-of-factories.netlify.app/analysis/jisou_jinzai/</link><pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate><guid>https://world-of-factories.netlify.app/analysis/jisou_jinzai/</guid><description>&lt;h2 id="はじめに"&gt;はじめに&lt;/h2&gt;
 &lt;p&gt;「この人は伸びるのか？」&lt;br&gt;
 育成や採用に関わる人であれば、避けて通れない問いです。&lt;/p&gt;
 &lt;p&gt;しかし現実には、&lt;/p&gt;
@@ -430,7 +430,7 @@ D --&amp;gt; D3[変化に対応できる]
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h3 id="理由"&gt;理由&lt;/h3&gt;
-&lt;p&gt;👉 &lt;strong&gt;理解していないとアウトプットできないため&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>人生を「受注」していないか？サービス社会の違和感</title><link>https://bink-miya.github.io/world-of-factories/blog/2026-03-31-article_service_society/</link><pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate><guid>https://bink-miya.github.io/world-of-factories/blog/2026-03-31-article_service_society/</guid><description>&lt;h2 id="はじめに"&gt;はじめに&lt;/h2&gt;
+&lt;p&gt;👉 &lt;strong&gt;理解していないとアウトプットできないため&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>人生を「受注」していないか？サービス社会の違和感</title><link>https://world-of-factories.netlify.app/blog/2026-03-31-article_service_society/</link><pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate><guid>https://world-of-factories.netlify.app/blog/2026-03-31-article_service_society/</guid><description>&lt;h2 id="はじめに"&gt;はじめに&lt;/h2&gt;
 &lt;p&gt;日本のサービスは世界でもトップクラスだと言われています。&lt;br&gt;
 コンビニ、飲食、ITサービス、どれをとっても「ここまでやるのか」と感じる場面が多い。&lt;/p&gt;
 &lt;p&gt;しかし最近、こんな違和感を覚えるようになりました。&lt;/p&gt;
@@ -512,7 +512,7 @@ D --&amp;gt; D3[変化に対応できる]
 &lt;h2 id="結論"&gt;結論&lt;/h2&gt;
 &lt;p&gt;誰かに求められることをこなすだけの人生は、&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;評価はされるが、価値は残らない。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;自分の価値で生きるというのは、&lt;/p&gt;</description></item><item><title>ペロブスカイトは本当に普及するのか――本当のボトルネックは電力システムにある</title><link>https://bink-miya.github.io/world-of-factories/analysis/perovskite-ems-analysis/</link><pubDate>Tue, 31 Mar 2026 00:00:00 +0900</pubDate><guid>https://bink-miya.github.io/world-of-factories/analysis/perovskite-ems-analysis/</guid><description>ペロブスカイト太陽電池の普及を、発電ではなく送電・蓄電・EMS・制度設計の側から読み解く分析記事。</description></item><item><title>分散電源はどう制御されているのか――海外に見るEMSの実装構造</title><link>https://bink-miya.github.io/world-of-factories/systems/ems-global-structure/</link><pubDate>Tue, 31 Mar 2026 00:00:00 +0900</pubDate><guid>https://bink-miya.github.io/world-of-factories/systems/ems-global-structure/</guid><description>ペロブスカイトなど分散電源の普及を、海外EMS事例（ドイツ・米国・豪州）から構造的に読み解く分析記事。</description></item><item><title>工場DXが進まない本当の理由｜属人化と効果を説明できない問題の構造</title><link>https://bink-miya.github.io/world-of-factories/systems/factory_dx_problem/</link><pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate><guid>https://bink-miya.github.io/world-of-factories/systems/factory_dx_problem/</guid><description>工場DXが進まない理由は属人化と効果を説明できない構造にある。さらに人間の認知とインセンティブが分断を強化する。</description></item><item><title>朝6時の散歩は、ダイエットのためのはずだった</title><link>https://bink-miya.github.io/world-of-factories/blog/2026-03-30-morning_walk_sakura/</link><pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate><guid>https://bink-miya.github.io/world-of-factories/blog/2026-03-30-morning_walk_sakura/</guid><description>健康づくりとダイエットのために始めた早朝の散歩。桜の季節の静かな時間に感じた、少し特別な価値について。</description></item><item><title>生成AI時代、システム開発は内製か外注か？工場視点での最適解</title><link>https://bink-miya.github.io/world-of-factories/analysis/ai_dev_strategy/</link><pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate><guid>https://bink-miya.github.io/world-of-factories/analysis/ai_dev_strategy/</guid><description>生成AIにより開発コストは下がるが、内製か外注かの判断は単純ではない。長期的には設計能力の喪失というリスクも存在する。</description></item><item><title>AIを使いこなせる人は何が違うのか？Copilot活用とオブジェクト指向で理解する本質</title><link>https://bink-miya.github.io/world-of-factories/blog/2026-03-29-ai_copilot_article_full/</link><pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate><guid>https://bink-miya.github.io/world-of-factories/blog/2026-03-29-ai_copilot_article_full/</guid><description>AIを使いこなせる人と使えない人の違いは何か。 実務のBefore/Afterとオブジェクト指向の視点から、 「仕事の分解力」という本質を解説する。</description></item><item><title>なぜISOや内部統制は形骸化するのか？評価が組織を歪める構造</title><link>https://bink-miya.github.io/world-of-factories/analysis/iso_analysis_article/</link><pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate><guid>https://bink-miya.github.io/world-of-factories/analysis/iso_analysis_article/</guid><description>ISO、内部統制、SLQDCは本来現場を良くするための仕組みである。 それなのになぜ多くの組織でやること自体が目的になってしまうのか。 評価、形式、過去の学習という3つの視点から、その構造を整理する。</description></item><item><title>工場の統廃合は何で決まるのか？粗利/人と供給構造で読み解く再編の本質</title><link>https://bink-miya.github.io/world-of-factories/analysis/factory_restructuring_analysis/</link><pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate><guid>https://bink-miya.github.io/world-of-factories/analysis/factory_restructuring_analysis/</guid><description>工場の統廃合は何を基準に決まるのか。 粗利/人だけでなく、供給（立地・物流・原料）の視点から再編の構造を解説する。</description></item><item><title>製造・設備・品質・ITが混ざると会社は壊れる｜なぜ今、現場が崩れるのか</title><link>https://bink-miya.github.io/world-of-factories/systems/mermaid_factory_structure_article/</link><pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate><guid>https://bink-miya.github.io/world-of-factories/systems/mermaid_factory_structure_article/</guid><description>製造・設備・品質・ITの4つの役割が分離されていないことが、現場崩壊の原因です。なぜ昔は回っていたのか、なぜ今は崩れやすいのかを、Mermaid図解つきで構造的に解説します。</description></item><item><title>“誰かがやる仕事”を引き受ける人はなぜ消耗するのか【仕事の属人化の問題】</title><link>https://bink-miya.github.io/world-of-factories/blog/2026-03-28-work-boundary/</link><pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate><guid>https://bink-miya.github.io/world-of-factories/blog/2026-03-28-work-boundary/</guid><description>仕事の属人化や“誰かがやる仕事”の問題を解説。自分の領域を持たない働き方がなぜ消耗につながるのか、現場視点で整理します。</description></item><item><title>データ化からAI活用までの全体構造（なぜ多くの企業が途中で止まるのか）</title><link>https://bink-miya.github.io/world-of-factories/systems/2026-03-28-analist-seq/</link><pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate><guid>https://bink-miya.github.io/world-of-factories/systems/2026-03-28-analist-seq/</guid><description>&lt;p&gt;多くの企業がAI導入で失敗する理由はシンプルである。&lt;/p&gt;
+&lt;p&gt;自分の価値で生きるというのは、&lt;/p&gt;</description></item><item><title>ペロブスカイトは本当に普及するのか――本当のボトルネックは電力システムにある</title><link>https://world-of-factories.netlify.app/analysis/perovskite-ems-analysis/</link><pubDate>Tue, 31 Mar 2026 00:00:00 +0900</pubDate><guid>https://world-of-factories.netlify.app/analysis/perovskite-ems-analysis/</guid><description>ペロブスカイト太陽電池の普及を、発電ではなく送電・蓄電・EMS・制度設計の側から読み解く分析記事。</description></item><item><title>分散電源はどう制御されているのか――海外に見るEMSの実装構造</title><link>https://world-of-factories.netlify.app/systems/ems-global-structure/</link><pubDate>Tue, 31 Mar 2026 00:00:00 +0900</pubDate><guid>https://world-of-factories.netlify.app/systems/ems-global-structure/</guid><description>ペロブスカイトなど分散電源の普及を、海外EMS事例（ドイツ・米国・豪州）から構造的に読み解く分析記事。</description></item><item><title>工場DXが進まない本当の理由｜属人化と効果を説明できない問題の構造</title><link>https://world-of-factories.netlify.app/systems/factory_dx_problem/</link><pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate><guid>https://world-of-factories.netlify.app/systems/factory_dx_problem/</guid><description>工場DXが進まない理由は属人化と効果を説明できない構造にある。さらに人間の認知とインセンティブが分断を強化する。</description></item><item><title>朝6時の散歩は、ダイエットのためのはずだった</title><link>https://world-of-factories.netlify.app/blog/2026-03-30-morning_walk_sakura/</link><pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate><guid>https://world-of-factories.netlify.app/blog/2026-03-30-morning_walk_sakura/</guid><description>健康づくりとダイエットのために始めた早朝の散歩。桜の季節の静かな時間に感じた、少し特別な価値について。</description></item><item><title>生成AI時代、システム開発は内製か外注か？工場視点での最適解</title><link>https://world-of-factories.netlify.app/analysis/ai_dev_strategy/</link><pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate><guid>https://world-of-factories.netlify.app/analysis/ai_dev_strategy/</guid><description>生成AIにより開発コストは下がるが、内製か外注かの判断は単純ではない。長期的には設計能力の喪失というリスクも存在する。</description></item><item><title>AIを使いこなせる人は何が違うのか？Copilot活用とオブジェクト指向で理解する本質</title><link>https://world-of-factories.netlify.app/blog/2026-03-29-ai_copilot_article_full/</link><pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate><guid>https://world-of-factories.netlify.app/blog/2026-03-29-ai_copilot_article_full/</guid><description>AIを使いこなせる人と使えない人の違いは何か。 実務のBefore/Afterとオブジェクト指向の視点から、 「仕事の分解力」という本質を解説する。</description></item><item><title>なぜISOや内部統制は形骸化するのか？評価が組織を歪める構造</title><link>https://world-of-factories.netlify.app/analysis/iso_analysis_article/</link><pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate><guid>https://world-of-factories.netlify.app/analysis/iso_analysis_article/</guid><description>ISO、内部統制、SLQDCは本来現場を良くするための仕組みである。 それなのになぜ多くの組織でやること自体が目的になってしまうのか。 評価、形式、過去の学習という3つの視点から、その構造を整理する。</description></item><item><title>工場の統廃合は何で決まるのか？粗利/人と供給構造で読み解く再編の本質</title><link>https://world-of-factories.netlify.app/analysis/factory_restructuring_analysis/</link><pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate><guid>https://world-of-factories.netlify.app/analysis/factory_restructuring_analysis/</guid><description>工場の統廃合は何を基準に決まるのか。 粗利/人だけでなく、供給（立地・物流・原料）の視点から再編の構造を解説する。</description></item><item><title>製造・設備・品質・ITが混ざると会社は壊れる｜なぜ今、現場が崩れるのか</title><link>https://world-of-factories.netlify.app/systems/mermaid_factory_structure_article/</link><pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate><guid>https://world-of-factories.netlify.app/systems/mermaid_factory_structure_article/</guid><description>製造・設備・品質・ITの4つの役割が分離されていないことが、現場崩壊の原因です。なぜ昔は回っていたのか、なぜ今は崩れやすいのかを、Mermaid図解つきで構造的に解説します。</description></item><item><title>“誰かがやる仕事”を引き受ける人はなぜ消耗するのか【仕事の属人化の問題】</title><link>https://world-of-factories.netlify.app/blog/2026-03-28-work-boundary/</link><pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate><guid>https://world-of-factories.netlify.app/blog/2026-03-28-work-boundary/</guid><description>仕事の属人化や“誰かがやる仕事”の問題を解説。自分の領域を持たない働き方がなぜ消耗につながるのか、現場視点で整理します。</description></item><item><title>データ化からAI活用までの全体構造（なぜ多くの企業が途中で止まるのか）</title><link>https://world-of-factories.netlify.app/systems/2026-03-28-analist-seq/</link><pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate><guid>https://world-of-factories.netlify.app/systems/2026-03-28-analist-seq/</guid><description>&lt;p&gt;多くの企業がAI導入で失敗する理由はシンプルである。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;順番を間違えているからだ。&lt;/strong&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id="-データ活用の全体構造"&gt;■ データ活用の全体構造&lt;/h2&gt;
@@ -548,14 +548,14 @@ D --&amp;gt; D3[変化に対応できる]
 &lt;p&gt;何をもってOK/NGとするかを決める&lt;/p&gt;
 &lt;p&gt;👉 関連記事：&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="https://bink-miya.github.io/world-of-factories/analysis/decision-quantification/"&gt;判断基準を数値化する方法（現場で使える実践手順）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://world-of-factories.netlify.app/analysis/decision-quantification/"&gt;判断基準を数値化する方法（現場で使える実践手順）&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h3 id="-数値化"&gt;■ 数値化&lt;/h3&gt;
 &lt;p&gt;曖昧な言葉を排除し、閾値を決める&lt;/p&gt;
 &lt;p&gt;👉 関連記事：&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="https://bink-miya.github.io/world-of-factories/analysis/xxxxx/"&gt;なぜ日本企業はデータで判断できないのか&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://world-of-factories.netlify.app/analysis/xxxxx/"&gt;なぜ日本企業はデータで判断できないのか&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h3 id="-データ蓄積"&gt;■ データ蓄積&lt;/h3&gt;
@@ -575,7 +575,7 @@ D --&amp;gt; D3[変化に対応できる]
 &lt;hr&gt;
 &lt;p&gt;データ活用とは、&lt;/p&gt;
 &lt;p&gt;ツールの話ではなく、&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;「判断の設計」そのものである。&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>データ活用からAI導入までの流れ【なぜDXは途中で止まるのか】</title><link>https://bink-miya.github.io/world-of-factories/analysis/data_analize/</link><pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate><guid>https://bink-miya.github.io/world-of-factories/analysis/data_analize/</guid><description>データ活用からAI導入までの流れを整理。DXが途中で止まる理由や、判断基準の欠如がAI活用を阻害する構造を分かりやすく解説します。</description></item><item><title>判断基準を数値化する方法【現場で使えるデータ活用の実践手順】</title><link>https://bink-miya.github.io/world-of-factories/analysis/2026-03-28-decision-quantification/</link><pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate><guid>https://bink-miya.github.io/world-of-factories/analysis/2026-03-28-decision-quantification/</guid><description>判断基準を数値化する方法を現場向けに解説。属人化をなくし、データで判断するための手順（分解・閾値設定・標準化）を実務レベルでまとめています。</description></item><item><title>トップページ 免責等</title><link>https://bink-miya.github.io/world-of-factories/top/</link><pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate><guid>https://bink-miya.github.io/world-of-factories/top/</guid><description>&lt;h1 id="トップページ"&gt;トップページ&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;「判断の設計」そのものである。&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>データ活用からAI導入までの流れ【なぜDXは途中で止まるのか】</title><link>https://world-of-factories.netlify.app/analysis/data_analize/</link><pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate><guid>https://world-of-factories.netlify.app/analysis/data_analize/</guid><description>データ活用からAI導入までの流れを整理。DXが途中で止まる理由や、判断基準の欠如がAI活用を阻害する構造を分かりやすく解説します。</description></item><item><title>判断基準を数値化する方法【現場で使えるデータ活用の実践手順】</title><link>https://world-of-factories.netlify.app/analysis/2026-03-28-decision-quantification/</link><pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate><guid>https://world-of-factories.netlify.app/analysis/2026-03-28-decision-quantification/</guid><description>判断基準を数値化する方法を現場向けに解説。属人化をなくし、データで判断するための手順（分解・閾値設定・標準化）を実務レベルでまとめています。</description></item><item><title>トップページ 免責等</title><link>https://world-of-factories.netlify.app/top/</link><pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate><guid>https://world-of-factories.netlify.app/top/</guid><description>&lt;h1 id="トップページ"&gt;トップページ&lt;/h1&gt;
 &lt;p&gt;世界は工場でできている
 ー 材料・エネルギー・工場から読む産業の仕組み&lt;/p&gt;
 &lt;p&gt;このブログでは、普段あまり見えない「産業の仕組み」を解説します。&lt;/p&gt;
@@ -644,7 +644,7 @@ D --&amp;gt; D3[変化に対応できる]
 &lt;h1 id="運営者"&gt;運営者&lt;/h1&gt;
 &lt;p&gt;製造業に関わる仕事をしています。&lt;/p&gt;
 &lt;p&gt;工場・材料・エネルギーなど、産業の仕組みに興味があります。&lt;/p&gt;
-&lt;p&gt;このブログでは、ニュースだけでは見えない「産業の裏側」を解説していきます。&lt;/p&gt;</description></item><item><title>なぜ日本は人手不足なのにもっと働けと言うのか</title><link>https://bink-miya.github.io/world-of-factories/blog/2026-03-24-shortage-of-people/</link><pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate><guid>https://bink-miya.github.io/world-of-factories/blog/2026-03-24-shortage-of-people/</guid><description>&lt;h1 id="なぜ日本は人手不足なのにもっと働けと言うのか"&gt;なぜ日本は「人手不足なのに、もっと働け」と言うのか&lt;/h1&gt;
+&lt;p&gt;このブログでは、ニュースだけでは見えない「産業の裏側」を解説していきます。&lt;/p&gt;</description></item><item><title>なぜ日本は人手不足なのにもっと働けと言うのか</title><link>https://world-of-factories.netlify.app/blog/2026-03-24-shortage-of-people/</link><pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate><guid>https://world-of-factories.netlify.app/blog/2026-03-24-shortage-of-people/</guid><description>&lt;h1 id="なぜ日本は人手不足なのにもっと働けと言うのか"&gt;なぜ日本は「人手不足なのに、もっと働け」と言うのか&lt;/h1&gt;
 &lt;p&gt;最近、ずっと違和感があります。&lt;/p&gt;
 &lt;p&gt;どこもかしこも「人手不足」と言っているのに、現場にいると感じるのは逆です。&lt;br&gt;
 仕事は減るどころか増えている。&lt;br&gt;
@@ -740,7 +740,7 @@ D --&amp;gt; D3[変化に対応できる]
 &lt;hr&gt;
 &lt;h2 id="頑張る方向が間違っている"&gt;「頑張る方向」が間違っている&lt;/h2&gt;
 &lt;p&gt;このとき、現場はどうするか。&lt;/p&gt;
-&lt;p&gt;なんとかします。&lt;/p&gt;</description></item><item><title>なぜ日本は石油由来の『中間素材』に強いのか</title><link>https://bink-miya.github.io/world-of-factories/systems/intermediate_materials/</link><pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate><guid>https://bink-miya.github.io/world-of-factories/systems/intermediate_materials/</guid><description>原油から最終製品までの工程の中で、日本が強みを持つのは『中間素材』の領域。なぜ日本は完成品ではなく、見えにくい素材分野で強いのかを構造的に解説する。</description></item><item><title>なぜガソリンは高くなるのか？原油・ナフサから見る「世界は工場でできている」という話</title><link>https://bink-miya.github.io/world-of-factories/analysis/gasoline/</link><pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate><guid>https://bink-miya.github.io/world-of-factories/analysis/gasoline/</guid><description>&lt;h2 id="-結論"&gt;■ 結論&lt;/h2&gt;
+&lt;p&gt;なんとかします。&lt;/p&gt;</description></item><item><title>なぜ日本は石油由来の『中間素材』に強いのか</title><link>https://world-of-factories.netlify.app/systems/intermediate_materials/</link><pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate><guid>https://world-of-factories.netlify.app/systems/intermediate_materials/</guid><description>原油から最終製品までの工程の中で、日本が強みを持つのは『中間素材』の領域。なぜ日本は完成品ではなく、見えにくい素材分野で強いのかを構造的に解説する。</description></item><item><title>なぜガソリンは高くなるのか？原油・ナフサから見る「世界は工場でできている」という話</title><link>https://world-of-factories.netlify.app/analysis/gasoline/</link><pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate><guid>https://world-of-factories.netlify.app/analysis/gasoline/</guid><description>&lt;h2 id="-結論"&gt;■ 結論&lt;/h2&gt;
 &lt;p&gt;ガソリン価格は単体で決まっているのではなく、&lt;br&gt;
 原油を起点とした「巨大な生産システム」の中で決まっている。&lt;/p&gt;
 &lt;p&gt;つまり、世界は一つの工場のように繋がっており、&lt;br&gt;
@@ -760,7 +760,7 @@ D --&amp;gt; D3[変化に対応できる]
 ・ナフサ（石油化学の原料）&lt;/p&gt;
 &lt;p&gt;ここで重要なのは「ナフサ」の存在だ。&lt;/p&gt;
 &lt;p&gt;ナフサについては別記事で詳しく解説しています。
-→ &lt;a href="https://bink-miya.github.io/world-of-factories/analysis/naphtha/"&gt;ナフサとは何か？なぜ世界経済の“見えない主役”なのか&lt;/a&gt;&lt;/p&gt;
+→ &lt;a href="https://world-of-factories.netlify.app/analysis/naphtha/"&gt;ナフサとは何か？なぜ世界経済の“見えない主役”なのか&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;ナフサはプラスチックや化学製品の原料になり、&lt;br&gt;
 現代のあらゆる製造業に使われている。&lt;/p&gt;
 &lt;p&gt;つまり、&lt;/p&gt;
@@ -808,7 +808,7 @@ D --&amp;gt; D3[変化に対応できる]
 &lt;p&gt;という一連の流れの中で決まっている。&lt;/p&gt;
 &lt;p&gt;世界はバラバラに動いているのではなく、&lt;br&gt;
 一つの工場のように繋がっている。&lt;/p&gt;
-&lt;p&gt;ガソリン価格は、その工場の稼働状況を映した“結果”なのだ。&lt;/p&gt;</description></item><item><title>ナフサとは何か？なぜ世界経済の“見えない主役”なのか</title><link>https://bink-miya.github.io/world-of-factories/analysis/naphtha/</link><pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate><guid>https://bink-miya.github.io/world-of-factories/analysis/naphtha/</guid><description>&lt;h2 id="-結論"&gt;■ 結論&lt;/h2&gt;
+&lt;p&gt;ガソリン価格は、その工場の稼働状況を映した“結果”なのだ。&lt;/p&gt;</description></item><item><title>ナフサとは何か？なぜ世界経済の“見えない主役”なのか</title><link>https://world-of-factories.netlify.app/analysis/naphtha/</link><pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate><guid>https://world-of-factories.netlify.app/analysis/naphtha/</guid><description>&lt;h2 id="-結論"&gt;■ 結論&lt;/h2&gt;
 &lt;p&gt;ナフサは目立たないが、現代の製造業を支える中核的な原料であり、&lt;br&gt;
 世界経済の動きを左右する「見えない主役」である。&lt;/p&gt;
 &lt;hr&gt;
@@ -873,7 +873,7 @@ D --&amp;gt; D3[変化に対応できる]
 &lt;p&gt;今後も、&lt;/p&gt;
 &lt;p&gt;・新興国の成長&lt;br&gt;
 ・人口増加&lt;br&gt;
-・製品需要の増加&lt;/p&gt;</description></item><item><title>ブログはじめました</title><link>https://bink-miya.github.io/world-of-factories/blog/2026-03-12-markdown-start/</link><pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate><guid>https://bink-miya.github.io/world-of-factories/blog/2026-03-12-markdown-start/</guid><description>&lt;h1 id="markdownでブログを書いてみる"&gt;Markdownでブログを書いてみる&lt;/h1&gt;
+・製品需要の増加&lt;/p&gt;</description></item><item><title>ブログはじめました</title><link>https://world-of-factories.netlify.app/blog/2026-03-12-markdown-start/</link><pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate><guid>https://world-of-factories.netlify.app/blog/2026-03-12-markdown-start/</guid><description>&lt;h1 id="markdownでブログを書いてみる"&gt;Markdownでブログを書いてみる&lt;/h1&gt;
 &lt;p&gt;今日はMarkdownでブログを書く準備をしました。
 使っているツールは,Github,Hugo,paperModです。
 こんなツールが無料で使える良い時代ですね！&lt;/p&gt;

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>構造 on 世界は工場でできている</title><link>https://bink-miya.github.io/world-of-factories/tags/%E6%A7%8B%E9%80%A0/</link><description>Recent content in 構造 on 世界は工場でできている</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sat, 28 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://bink-miya.github.io/world-of-factories/tags/%E6%A7%8B%E9%80%A0/index.xml" rel="self" type="application/rss+xml"/><item><title>データ化からAI活用までの全体構造（なぜ多くの企業が途中で止まるのか）</title><link>https://bink-miya.github.io/world-of-factories/systems/2026-03-28-analist-seq/</link><pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate><guid>https://bink-miya.github.io/world-of-factories/systems/2026-03-28-analist-seq/</guid><description>&lt;p&gt;多くの企業がAI導入で失敗する理由はシンプルである。&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>構造 on 世界は工場でできている</title><link>https://world-of-factories.netlify.app/tags/%E6%A7%8B%E9%80%A0/</link><description>Recent content in 構造 on 世界は工場でできている</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sat, 28 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://world-of-factories.netlify.app/tags/%E6%A7%8B%E9%80%A0/index.xml" rel="self" type="application/rss+xml"/><item><title>データ化からAI活用までの全体構造（なぜ多くの企業が途中で止まるのか）</title><link>https://world-of-factories.netlify.app/systems/2026-03-28-analist-seq/</link><pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate><guid>https://world-of-factories.netlify.app/systems/2026-03-28-analist-seq/</guid><description>&lt;p&gt;多くの企業がAI導入で失敗する理由はシンプルである。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;順番を間違えているからだ。&lt;/strong&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id="-データ活用の全体構造"&gt;■ データ活用の全体構造&lt;/h2&gt;
@@ -34,14 +34,14 @@
 &lt;p&gt;何をもってOK/NGとするかを決める&lt;/p&gt;
 &lt;p&gt;👉 関連記事：&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="https://bink-miya.github.io/world-of-factories/analysis/decision-quantification/"&gt;判断基準を数値化する方法（現場で使える実践手順）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://world-of-factories.netlify.app/analysis/decision-quantification/"&gt;判断基準を数値化する方法（現場で使える実践手順）&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h3 id="-数値化"&gt;■ 数値化&lt;/h3&gt;
 &lt;p&gt;曖昧な言葉を排除し、閾値を決める&lt;/p&gt;
 &lt;p&gt;👉 関連記事：&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="https://bink-miya.github.io/world-of-factories/analysis/xxxxx/"&gt;なぜ日本企業はデータで判断できないのか&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://world-of-factories.netlify.app/analysis/xxxxx/"&gt;なぜ日本企業はデータで判断できないのか&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h3 id="-データ蓄積"&gt;■ データ蓄積&lt;/h3&gt;
